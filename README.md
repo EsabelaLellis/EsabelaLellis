@@ -1,6 +1,6 @@
 ## Olá,
 ### Bem vido (a), me chamo Esabela Lellis, sou estudante Full Stack e 
-✌###integrante do Programa Transforma Tec - 2022
+### integrante do Programa Transforma Tec - 2022
 #
 
 
